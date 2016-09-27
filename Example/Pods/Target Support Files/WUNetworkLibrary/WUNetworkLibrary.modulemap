@@ -1,0 +1,6 @@
+framework module WUNetworkLibrary {
+  umbrella header "WUNetworkLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
